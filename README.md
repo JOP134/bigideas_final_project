@@ -5,7 +5,7 @@ Overview: We are determining the best neighborhood in Pittsburgh based off of sa
 Team Name:
 
 Team Members:
-Josh Paulovich -- jop134@pitt.edu
+Josh Paulovich -- jop134@pitt.edu  
 Bruce Hu -- 
 
 Description: 
