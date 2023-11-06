@@ -6,7 +6,7 @@ Team Name:
 
 Team Members:  
 Josh Paulovich -- jop134@pitt.edu  
-Bruce Hu -- 
+Bruce Hu -- brh231@pitt.edu
 
 Description: 
   1. The first dataset shows all the speedhumps in the area, sortable by neighborhoods. With the assumption that a higher           number of speed bumps leads to an overall safer neighborhood, this data can be used to find a "safest" neighborhood.
