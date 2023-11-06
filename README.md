@@ -1,6 +1,6 @@
-# Big Ideas Final Project
+## Big Ideas Final Project
 
-## Overview: We are determining the best neighborhood in Pittsburgh based off of safety, using datasets from https://data.wprdc.org/.
+Overview: We are determining the best neighborhood in Pittsburgh based off of safety, using datasets from https://data.wprdc.org/.
 
 Team Name:
 
